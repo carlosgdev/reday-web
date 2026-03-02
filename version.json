@@ -2,7 +2,7 @@
   "version": "1.0.2",
   "releaseDate": "2025-03-03",
   "notes": {
-    "es": "Indicador de día acual y notificaciones diarias aleatorias",
+    "es": "Indicador de día actual y notificaciones diarias aleatorias",
     "en": "Current day marker and random daily notifications"
   }
 }
