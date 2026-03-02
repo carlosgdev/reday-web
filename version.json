@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
-  "releaseDate": "2025-02-14",
+  "version": "1.0.2",
+  "releaseDate": "2025-03-03",
   "notes": {
-    "es": "Traducción de notificaciones y ajuste del icono",
-    "en": "Translation of notifications and icon adjustment"
+    "es": "Indicador de día acual y notificaciones diarias aleatorias",
+    "en": "Current day marker and random daily notifications"
   }
 }
