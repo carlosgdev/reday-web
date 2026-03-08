@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "releaseDate": "2025-03-03",
+  "version": "1.0.3",
+  "releaseDate": "2025-03-08",
   "notes": {
-    "es": "Indicador de día actual y notificaciones diarias aleatorias",
-    "en": "Current day marker and random daily notifications"
+    "es": "Mejora de notificaciones y arreglo de bugs",
+    "en": "Notifications upgrade and bug fixing"
   }
 }
