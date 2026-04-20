@@ -1,11 +1,10 @@
-{
-  "version": "1.1.0",
-  "releaseDate": "2026-04-20",
-  "notes": {
+ {                                                                                                                                                                                                                                           
+    "version": "1.1.0",                                                                                                                                                                                                                       
+    "releaseDate": "2026-04-20",                                                                                                                                                                                                              
+    "notes": {                                                    
       "es": "Selector de colores rediseñado con 20 familias y 3 variantes cada una. Diario mejorado sin colisión de textos. Animación al superar tu racha. Estadísticas navegables por año. PIN con período de gracia para evitar bloqueos 
   accidentales. Popups con nuevas animaciones.",                                                                                                                                                                                              
       "en": "Redesigned color picker with 20 families and 3 shades each. Improved journal with no text collisions. Streak celebration animation. Year-by-year statistics. PIN grace period to avoid accidental locks. Redesigned popups with 
   new animations."                                                                                                                                                                                                                            
-    }                
-  }
-}
+    }                                                             
+  }  
